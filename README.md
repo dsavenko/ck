@@ -1,5 +1,5 @@
 [![Linux Build Status](https://travis-ci.org/ctuning/ck.svg?branch=master)](https://travis-ci.org/ctuning/ck)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/dsavenko/ck?svg=true)](https://ci.appveyor.com/project/dsavenko/ck)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/ctuning/ck?svg=true)](https://ci.appveyor.com/project/ctuning/ck)
 [![Coverage Status](https://coveralls.io/repos/github/ctuning/ck/badge.svg)](https://coveralls.io/github/ctuning/ck)
 
 NEWS
